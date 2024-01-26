@@ -1,1 +1,1 @@
-# Examining-Left-digit-Bias
+[Behavioral Economics Project](./Left-digit Bias Paper.pdf)
