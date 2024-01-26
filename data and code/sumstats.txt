@@ -1,0 +1,10 @@
+variable,mean,sd,min,max
+Black population in borrower residential area (%),0.09,0.14,0,1
+Borrower credit ccore,724.61,60.56,620,830
+Borrower reservation price,437.14,160.01,179,1732
+Dealer reservation price,372.3,146.46,152,1521
+Hispanic population in borrower residential area (%),0.1,0.13,0,1
+Interest rate,0.05,0.03,0,0.24
+Length of loan,5.65,0.94,3,7
+Monthly payment,389.89,148.31,153,1611
+Total loan amount ($1000),22.8,8.33,10,60
